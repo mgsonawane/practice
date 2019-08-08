@@ -1,0 +1,13 @@
+java.util.Scanner;
+public class classs{
+String[] name=new String[3];
+public static void main(String[] args){
+classs m=new classs();
+Scanner sc = new Scanner(System.in);
+for (i=0;i<3;i++)
+{
+m.name[i]=sc.next();
+}
+
+}
+}
